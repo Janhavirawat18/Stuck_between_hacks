@@ -688,7 +688,6 @@ img {
     background-position: 0% 100%;
   }
 }
-
 .faq :hover {
   -webkit-animation-play-state: running;
           animation-play-state: running;
